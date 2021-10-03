@@ -24,7 +24,6 @@ There are two levels to this homework assignment. The second level is optional b
 
 
 * Summary analysis 
-1. Created DataFrames to match the production-ready tables from two of the big Amazon customer review datasets.
-2. For both of the ".ipynb files" - the schema text file for tables: customer, products, review_id and vine tables was populated.
-3. Observations while performing statistical analysis on Amazons vine review process. The analysis did not detect any potential bias or any untrustworthy information pertaining to Vine membership.
+ Created DataFrames to match the production-ready tables from two of the big Amazon customer review datasets.
+ Observations while performing statistical analysis on Amazons vine review process. The analysis did not detect any potential bias or any untrustworthy information pertaining to Vine membership.
 
